@@ -1,0 +1,1 @@
+For more detail, please read convertQ2toQ3UsingQBraid.ipynb. Basically, the script will read all the qasm2 files in "dataset" folder recursively and the output is qasm3 files saved in folder "Q3dataset"
